@@ -1,5 +1,5 @@
 
-Hello, I'm @stanislawszwed
+Hello, I'm @stanislawszwed <br>
 Currently, at work, I help other people with computer problems. I've always wanted to find out what it's like to work as a Service Desk agent, help other people, and I honestly don't regret it.
 Some of my hobbies:
 - 🛹 Skateboarding
