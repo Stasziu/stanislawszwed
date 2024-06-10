@@ -3,7 +3,7 @@ Hello, I'm @stanislawszwed <br>
 Currently, at work, I help other people with computer problems. I've always wanted to find out what it's like to work as a Service Desk agent, help other people, and I honestly don't regret it.
 Some of my hobbies:
 - 🛹 Skateboarding
-- 🧠 Creating html pages (yes, this is my hobby)
+- 🧠 Creating web pages (yes, this is my hobby)
 - 🎬 Watching movies, series and reading book covers.
 
 Currently I will try to upload my projects.
